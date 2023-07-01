@@ -1,13 +1,14 @@
 # Project template
 - layout: top-middle
-  name: Project 1
-  link: https://sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
+  name: unmanned drone
   quote: >
-    Short overview of the project
+    production the unmanned drone 
   description: >
-    Description about the work on/with the project
+    Assembly unmanned drone for Arduino part, codiong software program in Arduino and test flying
 
-- name: Project 2
+- name: smart safe
+  quote: >
+    production the smart safe 
   description: >
-    Description about the work on/with the project
+    Assembly smart safe for Arduino part,, codiong software program in Arduino, communication smartphone for Bluetooth and 
+behavior smart safe
